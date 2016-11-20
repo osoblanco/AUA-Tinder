@@ -1,0 +1,6 @@
+framework module Pods_AUA_Tinder {
+  umbrella header "Pods-AUA-Tinder-umbrella.h"
+
+  export *
+  module * { export * }
+}
